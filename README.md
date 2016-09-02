@@ -1,1 +1,1 @@
-# hot-or-cold_gamehot or cold app
+# This is a simple game called hot or cold
