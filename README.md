@@ -1,1 +1,1 @@
-# hot-or-cold_game
+# hot-or-cold_gamehot or cold app
